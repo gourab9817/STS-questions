@@ -5,11 +5,14 @@ public class Sortedpermutation {
         String s = "ABC";
         TreeSet<String> str = new TreeSet<>();
         per(s, "", str);
-        System.out.println(str);
+        // System.out.println(str);
+        for (String i : str) {
+            System.out.println(i);
+        }
     }
 
     public static void per(String s, String prefix, TreeSet<String> str) {
-        StringBuilder sb = new StringBuilder();
+        // StringBuilder sb = new StringBuilder();
 
         if (s.length() == 0) {
             str.add(prefix);

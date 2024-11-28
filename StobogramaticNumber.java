@@ -18,6 +18,12 @@ public class StobogramaticNumber {
 
         int i = 0;
         int j = str.length() - 1;
+        for (i = 0; i < j; i++) {
+            if (!strmap.containsKey(str.charAt(i))) {
+                return false;
+            }
+        }
+
         while (i <= j) {
 
             if (strmap.get(str.charAt(i)) != str.charAt(j)) {
