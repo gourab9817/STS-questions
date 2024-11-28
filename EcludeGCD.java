@@ -1,8 +1,8 @@
 public class EcludeGCD {
     public static void main(String[] args) {
 
-        int a = 30;
-        int b = 3;
+        int a = 3;
+        int b = 10;
         System.out.println(Ecludegcd(a, b));
     }
 
@@ -10,6 +10,6 @@ public class EcludeGCD {
         if (a == 0) {
             return b;
         }
-        return Ecludegcd(b % a, b);
+        return Ecludegcd(b % a, a);
     }
 }
