@@ -10,7 +10,6 @@ public class Sortedpermutation {
 
     public static void per(String s, String prefix, TreeSet<String> str) {
         StringBuilder sb = new StringBuilder();
-        // int nullstr="";
 
         if (s.length() == 0) {
             str.add(prefix);
