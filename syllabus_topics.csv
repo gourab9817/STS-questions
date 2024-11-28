@@ -1,44 +1,45 @@
-Practical Topics
-"Java Introduction, Features, Structure, Data Types"
-"Basic I/O, Operators"
-Decision making and Control structures
-Introduction to Algorithms
-Time & Space complexity-1.1
-Time & Space complexity-1.2
-Simple Sieve
-Segmented & Incremental Sieve
-Euler's phi Algorithm
-Remainder Theorem
-Strobogrammatic Number
-Maze Solving
-Binary Palindrome
-Booth's Algorithm
-Euclid's Algorithm
-Karatsuba Algorithm
-Longest Sequence of 1 after flipping a bit
-Swap two nibbles in a byte
-Block Swap Algorithm
-Max product subarray
-Maximum sum of hour glass in matrix
-Max Equlibrium Sum
-Leaders in array
-Majority element
-"Quick, Selection Sort"
-Weightes substring
-Move hyphen to beginning
-Manacher's Algorithm
-Sorted Unique Permutation
-Maneuvering
-Combination
-Josephus trap
-N Queens
-
-
-
-Theoretical Topics
-Warnsdorff’s Algorithm
-Hamiltonian Cycle
-Kruskal's Algorithm
-Activity Selection Problem
-Graph Coloring
-Huffman Coding
+Practical Topics,
+"Java Introduction, Features, Structure, Data Types",
+"Basic I/O, Operators",
+Decision making and Control structures,
+Introduction to Algorithms,
+Time & Space complexity-1.1,
+Time & Space complexity-1.2,
+Simple Sieve,
+Segmented & Incremental Sieve,
+Euler's phi Algorithm,
+Remainder Theorem,
+Strobogrammatic Number,
+Maze Solving,
+Binary Palindrome,
+Booth's Algorithm,
+Euclid's Algorithm,
+Karatsuba Algorithm,
+Longest Sequence of 1 after flipping a bit,Special practice
+Swap two nibbles in a byte,
+Block Swap Algorithm,
+Max product subarray,
+Maximum sum of hour glass in matrix,
+Max Equlibrium Sum,Special  practice
+Leaders in array,
+Majority element,
+"Quick, Selection Sort",
+Weightes substring,
+Move hyphen to beginning,
+Manacher's Algorithm,
+Sorted Unique Permutation,
+Maneuvering,
+Combination,
+Josephus trap,
+,
+,
+,
+,
+Theoretical Topics,
+Warnsdorff’s Algorithm,
+Hamiltonian Cycle,
+Kruskal's Algorithm,
+Activity Selection Problem,
+Graph Coloring,
+Huffman Coding,
+N Queens,
