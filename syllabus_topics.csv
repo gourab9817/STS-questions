@@ -1,45 +1,45 @@
-Practical Topics,,Paractice
-"Java Introduction, Features, Structure, Data Types",,
-"Basic I/O, Operators",,
-Decision making and Control structures,,
-Introduction to Algorithms,,
-Time & Space complexity-1.1,,
-Time & Space complexity-1.2,,
-Simple Sieve,,Y
-Segmented & Incremental Sieve,,Y
-Euler's phi Algorithm,,
-Remainder Theorem,,
-Strobogrammatic Number,,
-Maze Solving,,
-Binary Palindrome,,Y
-Booth's Algorithm,,Y
-Euclid's Algorithm,,Y
-Karatsuba Algorithm,,Y
-Longest Sequence of 1 after flipping a bit,Special practice,
-Swap two nibbles in a byte,,
-Block Swap Algorithm,,
-Max product subarray,,Y
-Maximum sum of hour glass in matrix,,
-Max Equlibrium Sum,Special  practice,
-Leaders in array,,Y
-Majority element,,Y
-"Quick, Selection Sort",,Y
-Weightes substring,,
-Move hyphen to beginning,,Y
-Manacher's Algorithm,,
-Sorted Unique Permutation,,
-Maneuvering,,Y
-Combination,,Y
-Josephus trap,,
-,,
-,,
-,,
-,,
-Theoretical Topics,,
-Warnsdorff’s Algorithm,,
-Hamiltonian Cycle,,
-Kruskal's Algorithm,,
-Activity Selection Problem,,
-Graph Coloring,,
-Huffman Coding,,
-N Queens,,
+Practical Topics,,Paractice,Written practice
+"Java Introduction, Features, Structure, Data Types",,,
+"Basic I/O, Operators",,,
+Decision making and Control structures,,,
+Introduction to Algorithms,,,
+Time & Space complexity-1.1,,,
+Time & Space complexity-1.2,,,
+Simple Sieve,,Y,Y
+Segmented & Incremental Sieve,,Y,Y
+Euler's phi Algorithm,,Y,Y
+Remainder Theorem,,,
+Strobogrammatic Number,,Y,Y
+Maze Solving,,,
+Binary Palindrome,,Y,Y
+Booth's Algorithm,,Y,Y
+Euclid's Algorithm,,Y,Y
+Karatsuba Algorithm,,Y,Y
+Longest Sequence of 1 after flipping a bit,Special practice,,
+Swap two nibbles in a byte,,,Y
+Block Swap Algorithm,,,Y
+Max product subarray,,Y,Y
+Maximum sum of hour glass in matrix,,,Y
+Max Equlibrium Sum,Special  practice,,
+Leaders in array,,Y,Y
+Majority element,,Y,Y
+"Quick, Selection Sort",,Y,Y
+Weightes substring,,,
+Move hyphen to beginning,,Y,Y
+Manacher's Algorithm,,,
+Sorted Unique Permutation,,,y
+Maneuvering,,Y,Y
+Combination,,Y,Y
+Josephus trap,,,Y
+Kaprekar Numbers:,,,
+,,,
+,,,
+,,,
+Theoretical Topics,,,
+Warnsdorff’s Algorithm,,,
+Hamiltonian Cycle,,,
+Kruskal's Algorithm,,,
+Activity Selection Problem,,,
+Graph Coloring,,,
+Huffman Coding,,,
+N Queens,,,
